@@ -8,7 +8,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: flowchart.jpg
+type: OCWImage
 uid: f4e85dac-2d4f-851d-9306-e568ccc8e0b6
 ---
