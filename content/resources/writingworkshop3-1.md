@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experim
 file_type: application/msword
 learning_resource_types:
 - Projects
+ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
 resourcetype: Other

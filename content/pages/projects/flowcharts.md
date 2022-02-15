@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Projects
+ocw_type: CourseSection
 parent_title: Projects
 parent_type: CourseSection
 parent_uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
