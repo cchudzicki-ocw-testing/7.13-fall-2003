@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ProjectsList.pdf
-type: OCWFile
 uid: 01cce4b8-ad45-7d4e-ae66-b0c244063611
 ---

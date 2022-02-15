@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ConjugalTransfer_Rhodo_v2.pdf
-type: OCWFile
 uid: 68c10ec3-9d08-24df-c776-2f65ac94fd94
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Ethanol_precipitation_v2.pdf
-type: OCWFile
 uid: 39e9cd67-1196-08c3-75bc-d6ebe6079000
 ---

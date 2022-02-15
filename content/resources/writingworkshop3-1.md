@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Other
 title: WritingWorkshop3.pps
-type: OCWFile
 uid: ee9aa154-f640-02bf-51a4-b6aa3b95dd0c
 ---

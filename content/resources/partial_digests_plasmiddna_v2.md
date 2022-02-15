@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Partial_Digests_PlasmidDNA_v2.pdf
-type: OCWFile
 uid: 37aee908-ac5c-226a-f6c2-0129f247aa66
 ---

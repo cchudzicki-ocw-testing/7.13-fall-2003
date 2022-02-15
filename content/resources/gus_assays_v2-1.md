@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: GUS_Assays_v2.pdf
-type: OCWFile
 uid: 309370ff-02f8-73ad-1aee-0650c0d48919
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Genomic_DNA_miniprep_v2.pdf
-type: OCWFile
 uid: 47aaabac-7177-60c5-ec1a-5d727afa1fa9
 ---

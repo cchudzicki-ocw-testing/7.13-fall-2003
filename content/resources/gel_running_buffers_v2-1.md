@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Gel_Running_Buffers_v2.pdf
-type: OCWFile
 uid: 80811623-64f7-654b-94fa-037bdd625f74
 ---

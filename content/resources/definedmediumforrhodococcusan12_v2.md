@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: DefinedMediumforRhodococcusAN12_v2.pdf
-type: OCWFile
 uid: 45a21b98-86c5-66ee-d9da-8450942759b3
 ---

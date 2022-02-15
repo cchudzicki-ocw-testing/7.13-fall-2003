@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: CultureMedia_v2.pdf
-type: OCWFile
 uid: 432d830d-9fdb-7f6a-1c32-a9715c83325f
 ---

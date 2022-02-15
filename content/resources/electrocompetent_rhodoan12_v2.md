@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Electrocompetent_RhodoAN12_v2.pdf
-type: OCWFile
 uid: 754737a4-c1f4-2a56-6cf1-0584c19f4a14
 ---

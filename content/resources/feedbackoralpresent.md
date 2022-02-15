@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: FeedbackOralPresent.pdf
-type: OCWFile
 uid: 46cd527a-86d2-4624-de08-d82846aad282
 ---

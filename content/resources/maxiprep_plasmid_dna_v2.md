@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Maxiprep_Plasmid_DNA_v2.pdf
-type: OCWFile
 uid: a3f3e179-76ba-a63c-d0bc-963166f7dd27
 ---

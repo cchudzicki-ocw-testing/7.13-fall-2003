@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Electrocompetent_C_R_B2641_v2.pdf
-type: OCWFile
 uid: 12258b6d-3dc5-4b7e-458d-199e744ffa6f
 ---

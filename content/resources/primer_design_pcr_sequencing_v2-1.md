@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Primer_Design_PCR_Sequencing_v2.pdf
-type: OCWFile
 uid: c2a8d1a1-6395-3f8b-8089-5a4ab6953083
 ---

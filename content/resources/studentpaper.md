@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: StudentPaper.pdf
-type: OCWFile
 uid: c68d4197-7c0f-3ccb-fcb7-907a12685a5d
 ---

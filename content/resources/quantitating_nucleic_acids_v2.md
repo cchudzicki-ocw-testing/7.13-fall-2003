@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: Quantitating_Nucleic_Acids_v2.pdf
-type: OCWFile
 uid: dc250192-8181-3d7d-a3e3-d00b13fcbeae
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Electrocompetent_RhodoAN12_v2.pdf
-type: OCWFile
 uid: 0cec2ee5-a1d3-f4fb-5316-f921cd61296a
 ---

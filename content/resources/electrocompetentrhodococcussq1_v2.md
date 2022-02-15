@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: ElectrocompetentRhodococcusSQ1_v2.pdf
-type: OCWFile
 uid: 7861e852-b292-1735-31a3-78146e830456
 ---
