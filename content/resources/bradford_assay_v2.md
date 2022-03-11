@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Bradford_Assay_v2.pdf
 uid: fc2e0518-0552-22c2-267f-691507386d6e
+video_metadata:
+  youtube_id: null
 ---

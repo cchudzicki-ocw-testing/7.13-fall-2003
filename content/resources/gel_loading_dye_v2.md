@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Gel_Loading_Dye_v2.pdf
 uid: 835358fa-db09-7d1e-4e6b-bb7a3c19db0b
+video_metadata:
+  youtube_id: null
 ---

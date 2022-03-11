@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Southern_blotting_v2.pdf
 uid: 54ae3974-c1d5-23af-9654-57d55b115757
+video_metadata:
+  youtube_id: null
 ---

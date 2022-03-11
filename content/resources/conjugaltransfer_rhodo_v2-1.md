@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ConjugalTransfer_Rhodo_v2.pdf
 uid: 68c10ec3-9d08-24df-c776-2f65ac94fd94
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ProjectLitSearch.pdf
 uid: 00de8ae3-c87f-518c-da64-df586112fbe8
+video_metadata:
+  youtube_id: null
 ---

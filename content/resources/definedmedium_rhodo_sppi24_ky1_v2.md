@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: DefinedMedium_Rhodo_sppI24_KY1_v2.pdf
 uid: da1750fb-f76b-790e-7ca5-853214597782
+video_metadata:
+  youtube_id: null
 ---

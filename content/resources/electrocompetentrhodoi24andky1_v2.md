@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ElectrocompetentRhodoI24andKY1_v2.pdf
 uid: cbb74e8c-cafc-693f-8e79-977c1524dadf
+video_metadata:
+  youtube_id: null
 ---

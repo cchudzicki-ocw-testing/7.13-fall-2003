@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Genomic_DNA_miniprep_v2.pdf
 uid: 395735f9-a5ca-93eb-bc38-31b31b45755e
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: DefinedMediumforRhodococcusAN12_v2.pdf
 uid: 45a21b98-86c5-66ee-d9da-8450942759b3
+video_metadata:
+  youtube_id: null
 ---

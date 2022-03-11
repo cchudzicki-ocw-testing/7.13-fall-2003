@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ProjectsList.pdf
 uid: 01cce4b8-ad45-7d4e-ae66-b0c244063611
+video_metadata:
+  youtube_id: null
 ---

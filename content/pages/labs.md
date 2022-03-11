@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Labs
 uid: 8534adf2-fa56-7977-9372-13ba3f559c18
+video_metadata:
+  youtube_id: null
 ---
 
 **WARNING NOTICE**

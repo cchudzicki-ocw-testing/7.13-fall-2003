@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Genomic_DNA_PrepEcoli_v2.pdf
 uid: 95088be0-d194-e401-95d5-7a10a6b0e978
+video_metadata:
+  youtube_id: null
 ---

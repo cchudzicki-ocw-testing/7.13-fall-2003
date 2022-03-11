@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 0ee233aa-09b4-a2c7-c626-7ddf6178d945
+video_metadata:
+  youtube_id: null
 ---
 
 **THE STUDENT EXPERIENCE**

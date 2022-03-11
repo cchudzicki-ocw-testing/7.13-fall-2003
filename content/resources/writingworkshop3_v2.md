@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: WritingWorkshop3_v2.pdf
 uid: 5578c078-a764-4cf7-3d00-456f5ebacb55
+video_metadata:
+  youtube_id: null
 ---

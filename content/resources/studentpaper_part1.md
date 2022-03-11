@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: StudentPaper_part1.pdf
 uid: 50ff26a5-a576-06cb-ae2a-7e692cc4c81b
+video_metadata:
+  youtube_id: null
 ---

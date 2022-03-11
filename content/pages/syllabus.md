@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: cdf54a8e-bcff-a8ab-6781-8a17bbb94744
+video_metadata:
+  youtube_id: null
 ---
 
 Research Scope and Background: The Systems

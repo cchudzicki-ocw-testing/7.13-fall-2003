@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Electrocompetent_Ecoli_v2.pdf
 uid: 736d8574-e780-a97c-6f98-a4a9bf9eeec0
+video_metadata:
+  youtube_id: null
 ---

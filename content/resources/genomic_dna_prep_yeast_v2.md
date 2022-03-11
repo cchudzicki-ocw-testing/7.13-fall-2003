@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Genomic_DNA_Prep_Yeast_v2.pdf
 uid: 881bb0ab-ef27-a63a-6130-f2556598e158
+video_metadata:
+  youtube_id: null
 ---

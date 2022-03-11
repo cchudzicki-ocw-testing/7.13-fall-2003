@@ -16,4 +16,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: flowchart.jpg
 uid: f4e85dac-2d4f-851d-9306-e568ccc8e0b6
+video_metadata:
+  youtube_id: null
 ---

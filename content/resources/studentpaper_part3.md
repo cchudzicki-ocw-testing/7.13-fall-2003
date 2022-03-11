@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: StudentPaper_part3.pdf
 uid: 023b6f67-d6bf-187d-aec8-fc12dce17074
+video_metadata:
+  youtube_id: null
 ---

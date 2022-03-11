@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: GUS_Assays_v2.pdf
 uid: 309370ff-02f8-73ad-1aee-0650c0d48919
+video_metadata:
+  youtube_id: null
 ---

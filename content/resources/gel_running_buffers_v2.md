@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Gel_Running_Buffers_v2.pdf
 uid: fca78ff0-a713-7035-3f0f-f3c7e9e046a0
+video_metadata:
+  youtube_id: null
 ---

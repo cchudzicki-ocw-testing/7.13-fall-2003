@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Partial_Digests_PlasmidDNA_v2.pdf
 uid: 22073135-6c16-9cc5-e079-62b301a1b36e
+video_metadata:
+  youtube_id: null
 ---

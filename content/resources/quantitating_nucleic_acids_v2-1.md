@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: Quantitating_Nucleic_Acids_v2.pdf
 uid: db78c3d3-55d3-0db0-a623-4b6aad9e598f
+video_metadata:
+  youtube_id: null
 ---

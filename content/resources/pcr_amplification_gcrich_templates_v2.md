@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: PCR_Amplification_GCrich_templates_v2.pdf
 uid: 12783350-b153-6e9b-68fa-a5114d6e53f2
+video_metadata:
+  youtube_id: null
 ---

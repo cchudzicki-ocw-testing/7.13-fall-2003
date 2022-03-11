@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ElectrocompetentRhodococcusSQ1_v2.pdf
 uid: 7861e852-b292-1735-31a3-78146e830456
+video_metadata:
+  youtube_id: null
 ---
