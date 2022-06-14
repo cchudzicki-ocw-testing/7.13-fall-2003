@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2003/12783350b1536e9b68faa5114d6e53f2_PCR_Amplification_GCrich_templates_v2.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2003/12783350b1536e9b68faa5114d6e53f2_PCR_Amplification_GCrich_templates_v2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs

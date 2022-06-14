@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2003/432d830d9fdb7f6a1c32a9715c83325f_CultureMedia_v2.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2003/432d830d9fdb7f6a1c32a9715c83325f_CultureMedia_v2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs

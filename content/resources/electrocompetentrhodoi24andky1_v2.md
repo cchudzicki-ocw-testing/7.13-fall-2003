@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2003/cbb74e8ccafc693f8e79977c1524dadf_ElectrocompetentRhodoI24andKY1_v2.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2003/cbb74e8ccafc693f8e79977c1524dadf_ElectrocompetentRhodoI24andKY1_v2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs

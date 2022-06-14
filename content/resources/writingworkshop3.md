@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2003/6311115f2c4299a0663e9c7e3bf2b767_WritingWorkshop3.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2003/6311115f2c4299a0663e9c7e3bf2b767_WritingWorkshop3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

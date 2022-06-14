@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2003/0b97322ea071bbf23fc88e6c3da95a9b_Phenol_Extraction_v2.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2003/0b97322ea071bbf23fc88e6c3da95a9b_Phenol_Extraction_v2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs

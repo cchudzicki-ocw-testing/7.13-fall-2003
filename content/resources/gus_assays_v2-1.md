@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2003/309370ff02f873ad1aee0650c0d48919_GUS_Assays_v2.pdf
+file: /courses/7-13-experimental-microbial-genetics-fall-2003/309370ff02f873ad1aee0650c0d48919_GUS_Assays_v2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
