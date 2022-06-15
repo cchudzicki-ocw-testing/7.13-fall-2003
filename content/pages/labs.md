@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains an index of laboratory protocols, with downloadable
+  pdfs, and Guidelines and Recommendations for Lab Notebooks.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
